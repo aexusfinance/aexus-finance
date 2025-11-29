@@ -1,3 +1,13 @@
+### **Contract Address (CA)**
+
+```
+CA: Coming Soon
+```
+
+The contract address will be announced through official AEXUS channels after finalization.
+
+---
+
 # **AEXUS CLI**
 
 ### **Corporate Intelligence & On-Chain Execution Interface**
@@ -70,16 +80,6 @@ The AEXUS Token will serve as a strategic backbone for:
 - Governance-grade decision weight
 
 The token’s formal introduction aligns with the system’s enterprise activation phase.
-
-### **Contract Address (CA)**
-
-```
-CA: Coming Soon
-```
-
-The contract address will be announced through official AEXUS channels after finalization.
-
----
 
 # **AEXUS CLI Overview**
 
