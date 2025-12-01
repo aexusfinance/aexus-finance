@@ -1,7 +1,7 @@
 ### **Contract Address (CA)**
 
 ```
-CA: 86tUUomAdNHxNHbmCxWxhxzC3XU9zLHudhfaQKT1pump
+CA: Coming Soon
 ```
 
 The contract address will be announced through official AEXUS channels after finalization.
